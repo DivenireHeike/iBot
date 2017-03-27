@@ -11,3 +11,8 @@ Steps involved in creating a Twitter bot (first draft):
 5. Build actual bot module
 6. Link Twitter account with bot code. 
 7. Testing
+
+I made a couple of starter accounts: 
+https://twitter-bot-robinlake.c9users.io
+https://twitter-ibot.herokuapp.com/
+https://git.heroku.com/twitter-ibot.git
