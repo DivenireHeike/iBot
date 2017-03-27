@@ -1,4 +1,8 @@
-Steps involved in creating a Twitter bot:
+iBot
+
+This is meant to be a bot splash page for our cohort!
+
+Steps involved in creating a Twitter bot (first draft):
 
 1. Create Twitter account
 2. Create Node.js server on Cloud9 to host code
